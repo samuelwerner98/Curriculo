@@ -1,0 +1,10 @@
+body {
+    width: 60%;
+    margin: auto;
+    background: url(background.jpg) center;
+    line-height: 1.25;
+
+    font-family: Arial;
+    font-size: 12px;
+    
+}
